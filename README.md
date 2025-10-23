@@ -52,14 +52,6 @@ This showcases my ability to not just visualize data but to **build robust data 
 
 ---
 
-## 👩‍💻 Author
-
-**Zoe Xia**  
-
-Data Engineer & BI | Power BI & Databricks Certified | Azure | SQL
-
----
-
 ## 📸 Preview
 
 ### 📊 Navigation Page
