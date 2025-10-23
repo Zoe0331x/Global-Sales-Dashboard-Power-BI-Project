@@ -62,12 +62,17 @@ Data Engineer & BI | Power BI & Databricks Certified | Azure | SQL
 
 ## 📸 Preview
 
-<!--
+### 📊 Navigation Page
 ![Navigation Page](images/navigation.png)
+
+### 🛒 Sales Dashboard
 ![Sales Dashboard](images/dashboard.png)
+
+### 💸 Discount Details
 ![Discount Page](images/discount.png)
+
+### ⏱️ Time Intelligence
 ![Time Intelligence](images/time-intelligence.png)
--->
 
 ---
 
