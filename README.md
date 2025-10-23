@@ -19,7 +19,7 @@ Designed with advanced Power BI features, this dashboard showcases a professiona
 | **Dynamic Measures** | Switch between key metrics using slicers or buttons for customized insights |
 | **Role-Playing Dimensions** | Uses multiple date relationships to support different time-based analysis perspectives |
 | **Discount Analysis** | Displays discount rates, list prices, and contribution per product to optimize pricing strategy |
-| **Info Page** | Definitions of KPIs, data source explanation, and business logic — ensuring **transparency** and **reusability** |
+| **Info Page** | Definitions of KPIs and business logic |
 | **Advanced Tooltip** | Embedded visual tooltips for contextual insights without cluttering the main view |
 
 ---
